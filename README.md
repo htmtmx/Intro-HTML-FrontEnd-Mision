@@ -1,2 +1,4 @@
 # Intro-HTML-FrontEnd-Mision
-Katta de Launch X - Intro HTML 
+Kata de Launch X - Intro HTML 
+Pineda Pacheco César Haziel
+04-03-2022
